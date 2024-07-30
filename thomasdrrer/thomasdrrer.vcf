@@ -1,0 +1,24 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Dörrer;Thomas;;;
+FN:Thomas Dörrer
+ORG:Technische Leitung Sicherheitsysteme
+ADR;TYPE=WORK:Elektro Hartinger und Sohn GmbH & Co. KG
+TITLE:Systemtechniker für Sicherheitstechnik
+TEL;TYPE=CELL:+4915112551314
+TEL;TYPE=WORK:+498031294228
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:doerrer@elektro-hartinger.de
+URL;TYPE=Digital Business Card:https://mastodon-rosenheim.de/thomasdrrer/
+URL:https://elektro-hartinger.de
+URL;TYPE=Website:https://elektro-hartinger.de
+URL;TYPE=Signal:https://signal.me/#p/+4915112551314
+URL;TYPE=Location:https://osm.org/go/0JCCVoEel?node=6250039022
+URL;TYPE=Instagram:https://instagram.com/elektrohartinger
+URL;TYPE=TikTok:https://tiktok.com/@elektrohartinger
+URL;TYPE=Facebook:https://facebook.com/elektrohartinger
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100574255
+END:VCARD
